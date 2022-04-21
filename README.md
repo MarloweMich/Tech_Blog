@@ -1,5 +1,6 @@
 # Tech Blog
-
+this site is live here! <br>
+http://marlowetechblog.herokuapp.com/
 
   ##Description
   
